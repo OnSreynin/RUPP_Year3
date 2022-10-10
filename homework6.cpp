@@ -11,7 +11,7 @@ T Max(T &x , T &y)
 }
 int main()
 {
-	int a =100, b=50;
+	int a =200, b=50;
 	string ch1 = "visal";
 	string ch2 = "sreynin";
 	double n =3.45, m = 4.65;
